@@ -1,21 +1,17 @@
 ## Olá, eu sou Kleyson :D
 <!-- Git stats -->
  <div>
-  <a href="https://github.com/kleysongomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysongomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomes&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/kleysongomesmorada">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysongomesmorada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomesmorada&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  ##
  <!-- Projetos atuais -->
 
- PROJETOS ATUAIS
+ ATUAÇÂO
  
-
- [Som Escrito](https://github.com/kleysongomes/somescrito) 👨🏼‍🏫 - Uma plataforma para pessoas surdas com o intuito de fornecer informações sobre os emissores de sons, tais como densidade sonora, sentimento que o som causa nas pessoas e muito mais. 
-
- [Inventário](https://github.com/kleysongomes/inventarioRP) 💻 - Script de um inventario baseado em LUA, JavaScritp, HTML e CSS para utilização no framework FiveM dentro do jogo GTA.
-
+ - Atuando na análise e resolução de incidentes junto ao sistema PROTHEUS da TOTVS
  
 <!-- Liguagens utilizadas -->
 <div style="display: inline_block"><br>
