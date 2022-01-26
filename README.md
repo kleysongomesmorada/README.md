@@ -9,7 +9,7 @@
  ##
  <!-- Projetos atuais -->
 
- ATUAÇÂO
+ ATUAÇÃO
  
  - Atuando na análise e resolução de incidentes junto ao sistema PROTHEUS da TOTVS
  
