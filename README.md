@@ -12,7 +12,7 @@
  PROJETOS ATUAIS
  
 
-- Atuando no desenvolvimento de novas funções e rotinas pra sistemas TOTVS
+- Atuando no desenvolvimento de novas funções e rotinas para sistemas TOTVS
 
  
 <!-- Liguagens utilizadas -->
