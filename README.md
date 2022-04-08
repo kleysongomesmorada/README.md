@@ -1,18 +1,19 @@
 ## Olá, eu sou Kleyson :D
 <!-- Git stats -->
  <div>
-  <a href="https://github.com/kleysongomesmorada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysongomesmorada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomesmorada&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/kleysongomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysongomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  ##
  <!-- Projetos atuais -->
 
- ATUAÇÃO
+ PROJETOS ATUAIS
  
- - Atuando na análise e resolução de incidentes junto ao sistema PROTHEUS da TOTVS
- - Trabalhando no Desenvolvimento de novas rotinas e funções para Sistemas TOTVS
+
+- Atuando no desenvolvimento de novas funções e rotinas pra sistemas TOTVS
+
  
 <!-- Liguagens utilizadas -->
 <div style="display: inline_block"><br>
@@ -36,5 +37,9 @@
  <a href="https://discord.gg/6JQyH349PK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kleysongomes7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kleyson-gomes-060a99115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+<!-- Cobrinha Comendo Commits -->
+  
+![Snake animation](https://github.com/kleysongomes/kleysongomes/blob/output/github-contribution-grid-snake.svg)
 </div>
   
