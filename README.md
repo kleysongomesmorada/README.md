@@ -12,6 +12,7 @@
  ATUAÇÃO
  
  - Atuando na análise e resolução de incidentes junto ao sistema PROTHEUS da TOTVS
+ - Trabalhando no Desenvolvimento de novas rotinas e funções para Sistemas TOTVS
  
 <!-- Liguagens utilizadas -->
 <div style="display: inline_block"><br>
