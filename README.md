@@ -1,9 +1,9 @@
 ## Olá, eu sou Kleyson :D
 <!-- Git stats -->
  <div>
-  <a href="https://github.com/kleysongomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysongomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomes&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/kleysongomesmorada">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysongomesmorada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomesmorada&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  ##
@@ -40,6 +40,6 @@
  
 <!-- Cobrinha Comendo Commits -->
   
-![Snake animation](https://github.com/kleysongomes/kleysongomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kleysongomesmorada/kleysongomesmorada/blob/output/github-contribution-grid-snake.svg)
 </div>
   
