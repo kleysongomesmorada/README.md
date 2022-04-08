@@ -40,6 +40,4 @@
  
 <!-- Cobrinha Comendo Commits -->
   
-![Snake animation](https://github.com/kleysongomes/kleysongomes/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
+
