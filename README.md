@@ -1,10 +1,16 @@
 ## Olá, eu sou Kleyson :D
+
+<p align="center">
+  <img src="https://github.com/kleysongomesmorada/kleysongomesmorada/blob/main/imgs/img.png" />
+</p>
+
 <!-- Git stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleysongomesmorada&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomesmorada&layout=langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ##
 PROJETOS ATUAIS
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleysongomesmorada&repo=uploadArquivos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleysongomesmorada&repo=uploadArquivos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 ##
