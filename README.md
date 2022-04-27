@@ -12,7 +12,7 @@ PROJETOS ATUAIS
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleysongomesmorada&repo=uploadArquivos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=totvs&repo=tds-vscode&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=totvs&repo=alura&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleysongomesmorada&repo=alura&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
